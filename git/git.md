@@ -1,3 +1,9 @@
+## git 将已有项目添加到仓库中
+>     git init
+>     git add *
+>     git ci -am '初始化项目'
+>     git push
+
 ## git命令简化
 
 修改**~/.gitconfig**文件 
