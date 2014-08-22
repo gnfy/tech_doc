@@ -1,5 +1,6 @@
 ## git 将已有项目添加到仓库中
 >     git init
+>     git remote add origin https://xxx
 >     git add *
 >     git ci -am '初始化项目'
 >     git push
